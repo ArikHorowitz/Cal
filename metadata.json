@@ -1,0 +1,5 @@
+{
+  "name": "FC-100V Web Simulator",
+  "description": "A high-fidelity digital twin of the Casio FC-100V Financial Calculator for education and certification prep. This web-based simulator aims to replicate the experience of using the real device with added features for visibility and interactivity for modern learning environments.",
+  "requestFramePermissions": []
+}
